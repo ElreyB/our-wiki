@@ -15,13 +15,17 @@ img {
   font-size: 12px;
   padding: 8px;
 }
-.panel > .panelheading > {
+#col1 {
+  background-color: #f5fffa;
+}
+
+/*.panel > .panelheading > {
   background-image: none;
   background-color: #cef2e0;
 }
 .panel-body {
-  background-color: #f5fffa;
-}
-.panel body {
+  background-color: #f5fffa;*/
+  
+#col2 {
   background-color: #f5faff;
 }

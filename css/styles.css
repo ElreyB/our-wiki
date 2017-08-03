@@ -4,3 +4,14 @@
 #Wikiheader {
   text-align: center;
 }
+img {
+  float:right;
+}
+.beepic {
+  float: right;
+}
+.facepic {
+  float: right;
+  font-size: 12px;
+  padding: 8px;
+}

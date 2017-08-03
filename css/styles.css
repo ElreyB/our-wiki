@@ -36,6 +36,11 @@
   float: left;
   width: 10%;
 }
-
+#sidebar ul {
+  list-style-type: none;
+  margin: 10px;
+  padding: 0;
+  font-size: 12px;
+}
 
 /*#cedff2*/
